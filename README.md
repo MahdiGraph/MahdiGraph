@@ -28,8 +28,9 @@ I enjoy building backend systems, automating boring tasks, and experimenting wit
     }
   ],
   "contact": {
-    "telegram": "t.me/MahdiGraph",
-    "github": "https://github.com/MahdiGraph"
+    "Telegram": "https://t.me/MahdiGraph",
+    "Linkedin": "https://www.linkedin.com/in/metti/",
+    "Github": "https://github.com/MahdiGraph"
   },
   "currently": "Trying to learn more about Linux and automation.",
   "status": "Quietly building cool things..."
