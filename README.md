@@ -1,16 +1,35 @@
-## Hi there 👋
+## Mahdi Talebi — Developer who loves backend and automation 👨‍💻
 
-<!--
-**MahdiGraph/MahdiGraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey 👋 my name is Metti and I'm trying to be a fullstack developer :) 🥇
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Metti",
+  "aka": "MahdiGraph",
+  "bio": "I enjoy working with code, building backend systems, and automating things that make life easier.",
+  "skills": {
+    "programming": [
+      "Python",
+      "JavaScript",
+      "PHP"
+    ],
+    "devops": [
+      "Docker",
+      "Linux Automation",
+      "CI/CD (learning)"
+    ]
+  },
+  "experience": [
+    {
+      "type": "independent",
+      "role": "Developer",
+      "description": "Most of the time I work on my own projects — testing ideas, learning new tools, and building useful stuff."
+    }
+  ],
+  "contact": {
+    "email": "immahdigraph@gmail.com",
+    "github": "https://github.com/MahdiGraph"
+  },
+  "currently": "Learning more about Linux and building small tools to solve real problems.",
+  "status": "Quietly working on cool things..."
+}
