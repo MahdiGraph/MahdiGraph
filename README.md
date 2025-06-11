@@ -1,12 +1,13 @@
-## Mahdi Talebi — Developer who loves backend and automation 👨‍💻
+## Mahdi Talebi — Developer who enjoys backend and automation 👨‍💻
 
-Hey 👋 my name is Metti and I'm trying to be a fullstack developer :) 🥇
+Hey 👋 my name is Mahdi Talebi and I'm learning new things and enjoying the journey as I grow.  
+I enjoy building backend systems, automating boring tasks, and experimenting with code.
 
 ```json
 {
-  "name": "Metti",
-  "aka": "MahdiGraph",
-  "bio": "I enjoy working with code, building backend systems, and automating things that make life easier.",
+  "name": "Mahdi Talebi",
+  "username": "MahdiGraph",
+  "bio": "I like working with code and making things that are useful and fun.",
   "skills": {
     "programming": [
       "Python",
@@ -16,20 +17,20 @@ Hey 👋 my name is Metti and I'm trying to be a fullstack developer :) 🥇
     "devops": [
       "Docker",
       "Linux Automation",
-      "CI/CD (learning)"
+      "CI/CD"
     ]
   },
   "experience": [
     {
       "type": "independent",
       "role": "Developer",
-      "description": "Most of the time I work on my own projects — testing ideas, learning new tools, and building useful stuff."
+      "description": "Working on personal projects, learning new tools, and trying out ideas in real-world setups."
     }
   ],
   "contact": {
     "email": "immahdigraph@gmail.com",
     "github": "https://github.com/MahdiGraph"
   },
-  "currently": "Learning more about Linux and building small tools to solve real problems.",
-  "status": "Quietly working on cool things..."
+  "currently": "Trying to learn more about Linux and automation.",
+  "status": "Quietly building cool things..."
 }
