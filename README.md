@@ -28,7 +28,7 @@ I enjoy building backend systems, automating boring tasks, and experimenting wit
     }
   ],
   "contact": {
-    "email": "immahdigraph@gmail.com",
+    "telegram": "t.me/MahdiGraph",
     "github": "https://github.com/MahdiGraph"
   },
   "currently": "Trying to learn more about Linux and automation.",
